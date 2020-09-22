@@ -1,3 +1,3 @@
-# t111mll-tetris.github.io
+# tetris
 
 # this tetris game was created using raw Javascript, CSS and HTML
